@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Shedlosky-Shoemaker;Randi;;;
+FN: Randi Shedlosky-Shoemaker 
+ORG:York College of Pennsylvania;
+TITLE:Associate Professor of Psychology\nSchool of Behavioral Sciences and Education
+EMAIL;type=INTERNET;type=WORK;type=pref:rshedlos@ycp.edu
+TEL;type=WORK;type=VOICE:+71 7815 1290
+item1.ADR;type=WORK;type=pref:;;441 Country Club Rb\nYork\, PA;;;17403
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:www.ycp.edu
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
